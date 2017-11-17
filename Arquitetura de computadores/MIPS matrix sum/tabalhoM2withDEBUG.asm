@@ -1,6 +1,6 @@
 # Disciplina: Arquitetura de Computadores
 # Atividade: Trabalho M2
-# Autor: David Subires Parra
+# Autor: David Subires Parra 
 	
 	.data
 
