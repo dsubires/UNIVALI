@@ -1,6 +1,6 @@
 # Disciplina: Arquitetura de Computadores
 # Atividade: Trabalho M2
-# Grupo: - David Subires Parra, James Amorim e Luis Eduardo Borgert
+# Autor: David Subires Parra
 	
 	.data
 
